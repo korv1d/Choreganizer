@@ -1,2 +1,3 @@
-## Repository for the website of choreganizer
-check it out [here](https://choreganizer.netlify.com)
+## OUTDATED
+for working repo, see [](https://github.com/chorganizer)  
+for live website, click [here] (https://choreganizer.netlify.com/)
